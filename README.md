@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @attapoltsg
+- 👀 I’m interested in Site Reliability Engineering
+- 🌱 I’m currently learning Datadog
+- 📫 Reach me at attapolt.sg@hotmail.com
